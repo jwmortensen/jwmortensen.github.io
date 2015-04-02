@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncharted Territory</title>
+    <description></description>
+    <link>http://jwmortensen.github.io/</link>
+    <atom:link href="http://jwmortensen.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 01 Apr 2015 22:09:59 -0600</pubDate>
+    <lastBuildDate>Wed, 01 Apr 2015 22:09:59 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Testing LaTeX</title>
+        <description>&lt;p&gt;This is a test to see whether mathjax will work or not.
+$$ f(x) = \int_{a}^b \frac{1}{x}dx $$&lt;/p&gt;
+
+&lt;p&gt;$$ \mathbf{X}_{n,p} = \mathbf{A}_{n,k} \mathbf{B}_{k,p} $$&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Apr 2015 14:40:00 -0600</pubDate>
+        <link>http://jwmortensen.github.io/latex/2015/04/01/latex_test.html</link>
+        <guid isPermaLink="true">http://jwmortensen.github.io/latex/2015/04/01/latex_test.html</guid>
+        
+        
+        <category>latex</category>
+        
+      </item>
+    
+      <item>
+        <title>Distributed Lag Models</title>
+        <description></description>
+        <pubDate>Wed, 01 Apr 2015 00:00:00 -0600</pubDate>
+        <link>http://jwmortensen.github.io/statistics/%22lag/models%22/2015/04/01/distributed_lag_models.html</link>
+        <guid isPermaLink="true">http://jwmortensen.github.io/statistics/%22lag/models%22/2015/04/01/distributed_lag_models.html</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>statistics</category>
+        
+        <category>&quot;lag</category>
+        
+        <category>models&quot;</category>
+        
+      </item>
+    
+  </channel>
+</rss>

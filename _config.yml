@@ -11,13 +11,13 @@ description: > # this means to ignore newlines until "email:"
 
 email: jacob.w.mortensen@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/jm_logo.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'Jacob Mortensen'
 author: 'Jacob Mortensen'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/thumbnail.jpg"
 
 paginate:	5
 
