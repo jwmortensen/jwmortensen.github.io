@@ -6,8 +6,7 @@ gems:
   
 # Site settings
 title: "Uncharted Territory"
-description: > # this means to ignore newlines until "email:"
-   
+description: "Writing, to me, is simply thinking through my fingers.<em style='float:right'>-Isaac Asimov</em>"
 
 email: jacob.w.mortensen@gmail.com
 #blog logo
