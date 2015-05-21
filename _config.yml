@@ -12,7 +12,7 @@ email: jacob.w.mortensen@gmail.com
 #blog logo
 logo: "/assets/images/jm_logo.jpg"
 # blog cover
-cover: "/assets/images/man_feeding_swans_in_snow.jpg"
+cover: "/assets/images/map.jpg"
 
 name: 'Jacob Mortensen'
 author: 'Jacob Mortensen'
@@ -20,7 +20,7 @@ author_image: "/assets/images/thumbnail.jpg"
 
 paginate:	5
 
-url: "http://jwmortensen.github.io" # the base hostname & protocol for your site
+url: "http://jwmortensen.me" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
