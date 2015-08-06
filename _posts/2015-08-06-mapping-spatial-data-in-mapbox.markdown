@@ -14,17 +14,19 @@ demonstrate how to style and map it using Mapbox.
 
 ### Preliminaries
 Before we dive into how to do this make sure that you have an account with Mapbox,
-which can be done [here][2]. They offer a starter tier that is free for anyone, 
+which can be done [here](https://www.mapbox.com/signup/ "Mapbox Registration"). 
+They offer a starter tier that is free for anyone, 
 and if you're a student you can upgrade to their basic account without any additional
 cost. Mapbox has a lot of really impressive tools, but for this tutorial we are going 
 to keep it simple.
 
 Once you've created your account you will need to download 
-[TileMill][3]<a href="#tile-mill-footnote"><sup>1</sup></a>. This is the tool that 
+[TileMill](https://www.mapbox.com/tilemill/ "TileMill")<a href="#tile-mill-footnote"><sup>1</sup></a>. 
+This is the tool that 
 we will use to style our map and generate raster tiles to upload to Mapbox.
 
 If you'd like to follow along on your own machine, the code and data for this tutorial
-can be found [here][4].
+can be found [here](https://github.com/jwmortensen/mapbox-and-r 'github repository with all the code').
 
 Now let's fire up R and make sure you have the following packages installed
 and loaded:
@@ -170,7 +172,8 @@ be very intuitive to you, but if you aren't, then basically CartoCSS is a
 language that allows you to select certain features of your data and apply
 different styles to change their appearance. If you would like a more in-depth
 explanation of CartoCSS and what styles you can use, 
-Mapbox has provided a good reference [here][5], but for the purposes of this
+Mapbox has provided a good reference [here](https://github.com/mapbox/carto/blob/master/docs/latest.md "CartoCSS Reference"), 
+but for the purposes of this
 tutorial you can skip it for now.
 
 First, go to the bottom left and click the "layers" button (the icon that looks like
@@ -223,7 +226,7 @@ divide this range into 11 approximately evenly spaced categories,
 and then color each category to make it easy to identify
 which areas of the city have the highest probabilities. 
 The color palette we are going to use is one of the "diverging" color
-palettes available from [Color Brewer][6].
+palettes available from [Color Brewer](http://colorbrewer2.org/ "Color Brewer").
 
 One nice thing about CartoCSS is that
 it allows you to apply styles conditionally using syntax of the form 
@@ -278,7 +281,8 @@ update the ```style.mss``` file so that it looks like this:
 We can also add a legend. It requires a little bit of knowledge of HTML
 and CSS, which is beyond the scope of this tutorial, but it is not
 hard to learn, and a good crash course is available for free from 
-[Codecademy][7]. For now, go to the bottom left corner of the window
+[Codecademy](https://www.codecademy.com/tracks/web "Codecademy"). 
+For now, go to the bottom left corner of the window
 and click the hand icon. 
 
 <img src="/assets/article_images/mapbox_and_R/tilemill_ss6.png"/>
@@ -425,10 +429,3 @@ as data and allows you to upload as many as you want until you reach the storage
 your plan (100 mb for the free plan). This is why TileMill is used instead of Mapbox Studio.
 
 
-[1]: https://www.mapbox.com/ "Mapbox"
-[2]: https://www.mapbox.com/signup/ "Mapbox Registration"
-[3]: https://www.mapbox.com/tilemill/ "TileMill"
-[4]: https://github.com/jwmortensen/mapbox-and-r 'github repository with all the code'
-[5]: https://github.com/mapbox/carto/blob/master/docs/latest.md "CartoCSS Reference"
-[6]: http://colorbrewer2.org/ "Color Brewer"
-[7]: https://www.codecademy.com/tracks/web "Codecademy"
