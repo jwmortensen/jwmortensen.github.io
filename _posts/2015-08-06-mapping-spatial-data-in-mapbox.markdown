@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Mapping spatial data with R and Mapbox"
-date: 2015-04-30
+date: 2015-08-06
 categories: statistics
-tags: [featured, mapbox, qgis, mapping, R]
+tags: [mapbox, mapping, R]
 ---
 Although R has fairly advanced graphics capabilities, when it comes to mapping
 spatial data there are some alternatives that can produce much more detailed
-and visually appealing graphics. One such alternative is [Mapbox][1], a company
-committed to helping others easily create beautiful, detailed maps.
+and visually appealing graphics. One such alternative is [Mapbox](https://www.mapbox.com/ "Mapbox"),
+a company committed to helping others easily create beautiful, detailed maps.
 In this post I will show how to convert point data to a shapefile in R, and then 
 demonstrate how to style and map it using Mapbox.
 
