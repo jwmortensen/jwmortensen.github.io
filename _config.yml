@@ -1,54 +1,57 @@
+title: Jacob Mortensen
+description: Personal website of Jacob Mortensen
+sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
+
+permalink: blog/:year/:month/:day/:title
+exclude: ["Makefile", "README.md"]
+
+#url: "http://gchauras.github.io"     # the base hostname & protocol for your site
+#baseurl: "/much-worse-jekyll-theme"                   # the subpath of your site, e.g. /blog
+
+author:
+    name:
+    facebook:
+    scholar:
+
 # Build settings
-markdown: redcarpet
-highlighter: pygments
-gems:
-  - jemoji
-  
-# Site settings
-title: "Uncharted Territory"
-description: "Writing, to me, is simply thinking through my fingers.<em style='float:right'>-Isaac Asimov</em>"
+markdown: kramdown
+highlighter: rouge
 
-email: jacob.w.mortensen@gmail.com
-#blog logo
-logo: "/assets/images/jm_logo.jpg"
-# blog cover
-cover: "/assets/images/map.jpg"
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#
+analytics:
+    provider: 'google'
+    statcounter:
+        sc_project  :
+        sc_security :
+        sc_invisible: 1
+        sc_text     : 2
+    google:
+        tracking_id: 'UA-62287291-1'
+    getclicky:
+      site_id:
+    mixpanel:
+        token: ''
+    piwik:
+        baseURL: '' # Piwik installation address (without protocol)
+        idsite: ''  # the id of the site on Piwik
 
-name: 'Jacob Mortensen'
-author: 'Jacob Mortensen'
-author_image: "/assets/images/thumbnail.jpg"
-
-paginate:	5
-
-url: "http://jwmortensen.me" # the base hostname & protocol for your site
-baseurl: ""
-
-# social icons and sharing options
-social:
-  - icon:	twitter
-    url:	https://twitter.com/jwmortensen
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
-
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: https://www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
-
-  - icon:	github
-    url:	https://github.com/jwmortensen
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
-
-#  - icon:	google-plus
-#    url:	https://google.com/???
-#    desc:	Add me on google+
-#    share_url:
-#    share_title:
-#    share_link:
+# Settings for comments helper
+# Set 'provider' to the comment provider you want to use.
+# Set 'provider' to false to turn commenting off globally.
+#
+comments:
+    provider:
+    disqus:
+      short_name:
+    livefyre:
+      site_id:
+    intensedebate:
+      account:
+    facebook:
+      appid:
+      num_posts: 5
+      width: 580
+      colorscheme: light

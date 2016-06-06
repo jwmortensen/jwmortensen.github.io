@@ -1,13 +1,12 @@
-<!-- footer start -->
-
 <footer class="site-footer">
-  <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
-    <div class="inner">
-         <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
-         <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a>. 
-        Design based on the <a href="https://github.com/dirkfabisch/mediator">Mediator theme</a>. </section>
-         
-    </div>
-</footer>
+    {{ site.description }}<br />
 
-<!-- footer end -->
+    Built with <a href="http://jekyllrb.com/">Jekyll</a>
+    {% if site.sourcecode %}
+     and the <a href="http://jekyllthemes.org/themes/much-worse/">Much Worse Jekyll Theme</a>
+    {% endif %}
+    <!-- {% if site.analytics.provider and page.analytics != false %} -->
+     <!-- :: Analytics by {{ site.analytics.provider }} -->
+    <!-- {% endif %} -->
+
+</footer>
