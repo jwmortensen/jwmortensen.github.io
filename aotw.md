@@ -4,11 +4,12 @@ title: Album of the Week
 permalink: /aotw/
 ---
 
-<a href="https://open.spotify.com/album/1wBZ83eTAvXZGMK0V2u9lD" target="_blank">
-  <img src="/images/aotw/radu-lupu-brahms.jpg">
+<a href="https://open.spotify.com/album/1qVKTHX3HLFIi9PkTldCus" target="_blank">
+  <img src="/images/aotw/anna-meredith-varmints.jpg">
 </a>
 
 ## Previous Weeks
+2016 June 19: <a href="https://open.spotify.com/album/1wBZ83eTAvXZGMK0V2u9lD" target="_blank">Radu Lupu - Brahms: Two Rhapsodies, Op. 79; Piano Pieces, Opp. 117-119</a><br>
 2016 June 12: <a href="https://open.spotify.com/album/6meXSKHVhOQVPzo4ZEtZWw" target="_blank">Sigur Ros - Takk</a><br>
 2016 June 5: <a href="https://open.spotify.com/album/6sGTJLYY7vIeJNRzRUEOMY" target="_blank">Real Estate - Days</a><br>
 2016 May 29: <a href="https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO" target="_blank">Whitney - Light Upon the Lake</a><br>
