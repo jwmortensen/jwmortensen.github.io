@@ -4,11 +4,12 @@ title: Album of the Week
 permalink: /aotw/
 ---
 
-<a href="https://open.spotify.com/album/1qVKTHX3HLFIi9PkTldCus" target="_blank">
-  <img src="/images/aotw/anna-meredith-varmints.jpg">
+<a href="https://open.spotify.com/album/6xaalWgqmC00dKgrFLlcmk" target="_blank">
+  <img src="/images/aotw/avalanches-wildflower.jpg">
 </a>
 
 ## Previous Weeks
+2016 June 26: <a href="https://open.spotify.com/album/1qVKTHX3HLFIi9PkTldCus" target="_blank">Anna Meredith - Varmints</a><br>
 2016 June 19: <a href="https://open.spotify.com/album/1wBZ83eTAvXZGMK0V2u9lD" target="_blank">Radu Lupu - Brahms: Two Rhapsodies, Op. 79; Piano Pieces, Opp. 117-119</a><br>
 2016 June 12: <a href="https://open.spotify.com/album/6meXSKHVhOQVPzo4ZEtZWw" target="_blank">Sigur Ros - Takk</a><br>
 2016 June 5: <a href="https://open.spotify.com/album/6sGTJLYY7vIeJNRzRUEOMY" target="_blank">Real Estate - Days</a><br>
