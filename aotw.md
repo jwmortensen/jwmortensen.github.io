@@ -4,11 +4,14 @@ title: Album of the Week
 permalink: /aotw/
 ---
 
-<a href="https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq" target="_blank">
-  <img src="/images/aotw/local-natives-hummingbird.jpg">
+<a href="https://open.spotify.com/album/3q4JL92gEyjHojgSrkYwWR" target="_blank">
+  <img src="/images/aotw/sunny-day-real-estate-how-it-feels.jpg">
 </a>
 
 ## Previous Weeks
+2016 July 24: <a href="https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq" target="_blank">
+  Local Natives - Hummingbird
+</a><br>
 2016 July 17: <a href="https://open.spotify.com/album/5eQiIOG8XyHdfhUUhmm4hD" target="_blank">Beach House - Teen Dream</a><br>
 2016 July 10: <a href="https://open.spotify.com/album/4Olz2cm8ncBqhnRcDwqVFK" target="_blank">The Wrens - The Meadowlands</a><br>
 2016 July 3: <a href="https://open.spotify.com/album/6xaalWgqmC00dKgrFLlcmk" target="_blank">The Avalanches - Wildflower</a><br>
