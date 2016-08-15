@@ -4,11 +4,14 @@ title: Album of the Week
 permalink: /aotw/
 ---
 
-<a href="https://open.spotify.com/album/3q4JL92gEyjHojgSrkYwWR" target="_blank">
-  <img src="/images/aotw/sunny-day-real-estate-how-it-feels.jpg">
+<a href="https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X" target="_blank">
+  <img src="/images/aotw/lcd-soundsystem-sound-of-silver.jpg">
 </a>
 
 ## Previous Weeks
+2016 July 31: <a href="https://open.spotify.com/album/3q4JL92gEyjHojgSrkYwWR" target="_blank">
+  Sunny Day Real Estate - How It Feels To Be Something On
+</a><br>
 2016 July 24: <a href="https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq" target="_blank">
   Local Natives - Hummingbird
 </a><br>
