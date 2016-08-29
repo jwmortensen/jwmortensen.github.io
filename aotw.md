@@ -4,11 +4,13 @@ title: Album of the Week
 permalink: /aotw/
 ---
 
-<a href="https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X" target="_blank">
-  <img src="/images/aotw/lcd-soundsystem-sound-of-silver.jpg">
+<a href="https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE" target="_blank">
+  <img src="/images/aotw/sufjan-stevens-carrie-and-lowell.jpg">
 </a>
 
 ## Previous Weeks
+2016 August 14: Joanna Newsom - Ys<br>
+2016 August 7: <a href="https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X" target="_blank">LCD Soundsystem - Sound of Silver</a><br>
 2016 July 31: <a href="https://open.spotify.com/album/3q4JL92gEyjHojgSrkYwWR" target="_blank">
   Sunny Day Real Estate - How It Feels To Be Something On
 </a><br>
